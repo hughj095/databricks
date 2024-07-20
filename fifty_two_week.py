@@ -5,7 +5,7 @@ from ib_insync import *
 import pandas as pd
 import os
 
-
+### UPDATED FROM DATABRICKS
 # Function to fetch historical data and check if at 52-week high
 class Refresh52Week:
     def check_52_week_high(ticker, ib):
